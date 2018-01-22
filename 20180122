@@ -1,0 +1,13 @@
+How to publish to Github Pages:
+In index.html (the page you'd like to publish), click on "edit" and then find "Settings," scroll down to find "Github Pages."
+
+Clone and Fetch:
+- Clone: copy the whole repo from server (Github)
+- Fetch: copy the updated part of the repo from server
+
+HTML explanatory video: http://www.dontfeartheinternet.com/02-html
+open tag and closed tag - how to organize the code
+
+<ol> </ol> ordered list
+<li> </li> list
+<ul> </ul> unordered list
