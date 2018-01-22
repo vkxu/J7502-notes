@@ -8,6 +8,28 @@ Clone and Fetch:
 HTML explanatory video: http://www.dontfeartheinternet.com/02-html
 open tag and closed tag - how to organize the code
 
+Common block level elements:
 <ol> </ol> ordered list
 <li> </li> list
 <ul> </ul> unordered list
+<h1>, <p>, <div>
+
+Common inline elements:
+<a href = "link address"> </a>
+<br /> = break tag = empty elements, inserts a line break into your Pages
+<hr /> inserts a horizontal rule
+<img src = "file name" alt="file description displayed">
+   -src = source
+
+Nested HTML elements:
+<html>
+  <body>
+    <p>
+  </body>
+</html>
+
+Styles:
+<b> bold
+<i> italy
+
+Remember to add DOCTYPE declaration at very first.
