@@ -1,0 +1,32 @@
+Inline styles
+Internal CSS
+External CSS
+
+CSS syntax: one selectors and one/more declarations
+CSS declarations: one property and one value
+e.g.
+h1
+  {
+  color:blue;
+  text-align:center
+  }
+
+CSS comments: /* this is a comment */
+
+Embedding an external stylesheet: Note the format!
+
+CSS tag, class and ID selectors:
+tag: <p> - p{} - apply to all tags
+class: <p class="first"> - .first{} - can be used multiple times
+ID: <p ID="nav"> - #nav{} - only be used once
+
+div and span:
+divs only focus on a portion of the webpage
+spans focus on a smaller part in the div portion
+
+Defining colors in CSS: black, red, green
+Hex:(red)(green)(blue)
+
+Note the links!
+
+CSS box model: margin, border, padding, content
